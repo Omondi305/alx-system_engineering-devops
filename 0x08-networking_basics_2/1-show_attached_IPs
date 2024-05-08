@@ -1,3 +1,11 @@
+2
+3
+4
+5
+6
+7
+8
+9
 #!/usr/bin/env bash
 # This script configures an Ubuntu server as follows:
 # **** localhost resolves to 127.0.0.2
